@@ -1,5 +1,6 @@
 ## <p align="center"> Hi there, I'm Richard 👋 </p>
 
+<h2 align="center">
 Github Stats
 
 ---
@@ -15,3 +16,5 @@ Github Stats
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  </h2>
