@@ -1,4 +1,4 @@
-![hardwarebanner](https://raw.githubusercontent.com/Rymedy/Rymedy/main/images/technology.jpg)
+![hardwarebanner]()
 
 ## <p align="center">Hi there, I'm Richard 👋</p>
 - 🌱 I’m currently studying for the HSC to recieve an ATAR for university entry into the field of Software Engineering/CompSci.
