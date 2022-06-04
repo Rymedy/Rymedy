@@ -1,4 +1,4 @@
-![softwarebanner](https://github.com/Rymedy/Rymedy/blob/main/images/code.jpg)
+![softwarebanner](https://github.com/Rymedy/Rymedy/blob/main/images/software.jpg)
 
 ## <p align="center"> Hi there, I'm Richard 👋 </p>
 - 🔭 I’m currently working on ...
