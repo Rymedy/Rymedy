@@ -1,4 +1,4 @@
-![softwarebanner](INSERTURL)
+![softwarebanner](https://github.com/Rymedy/Rymedy/blob/main/images/code.jpg)
 
 ## <p align="center"> Hi there, I'm Richard 👋 </p>
 - 🔭 I’m currently working on ...
