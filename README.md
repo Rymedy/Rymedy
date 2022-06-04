@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=rymedy&show_icons=true&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rymedy)](https://github.com/rymedy/github-readme-stats)
 <!--
 **Rymedy/Rymedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
