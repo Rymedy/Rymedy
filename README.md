@@ -17,6 +17,7 @@ Languages and Tools
 Github Stats
 
 ---
+<img src="https://komarev.com/ghpvc/?username=rymedy&label=Profile%20views&color=0e75b6&style=flat" alt="rymedy" />
 |![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=rymedy&show_icons=true&theme=outrun&hide_border=true)|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rymedy&theme=outrun&layout=compact&hide_border=true)](https://github.com/rymedy/github-readme-stats)|
 |-|-|
 
