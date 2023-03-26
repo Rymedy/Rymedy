@@ -1,8 +1,8 @@
 ![hardwarebanner](https://github.com/Rymedy/Rymedy/blob/main/images/hardware.jpg)
 
 ## <p align="center">Hi there, I'm Richard 👋</p>
-- 🌱 I’m currently studying for the HSC to recieve an ATAR for university entry into the field of Software Engineering/CompSci.
-- 📖 HSC Courses studied/studying: Software Design & Development, Economics, Mathematics Advanced, Mathematics Extension 1, English Advanced, Studies of Religion I
+- 🌱 Currently a student at the University of Technology Sydney.
+- 📖 Studying to recieve a Bachelor of Computing Science (Honours).
 - ⭐️ I am a software developer based in the beautiful coast of Australia, Sydney.
 - 🌏 I particularly enjoy front-end development, however also find fascinating interest in back-end development too!
 - 🎮👨‍💻 Hobbies: In my free time, I love playing computer video games and of course programming!
