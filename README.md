@@ -1,6 +1,6 @@
 ![hardwarebanner](https://github.com/Rymedy/Rymedy/blob/main/images/hardware.jpg)
 
-Hi there, I'm Richard 👋
+## <p align="center">Hi there, I'm Richard 👋</p>
 - 🌱 Currently a student at the University of Technology Sydney.
 - 📖 Studying to recieve a Bachelor of Computing Science (Honours).
 - ⭐️ I am a software developer based in the beautiful coast of Australia, Sydney.
@@ -8,6 +8,7 @@ Hi there, I'm Richard 👋
 - 🎮👨‍💻 Hobbies: In my free time, I love learning spoken languages, playing computer video games and of course programming!
 - 📫 How to reach me: send me [an email](mailto:rfwebb10@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/richard-webb-b479b81b3/), I will always be happy to respond =)
 
+<h2 align="center">
 Languages and Tools
   
 ---
